@@ -37,7 +37,7 @@ colorbar;
 
 subplot(2,2,3)
 hold on; box on; grid on;
-plot_index = 270;
+plot_index = 1;
 errorbar(UT,ZonalWind(:,plot_index),dZonalWind(:,plot_index));
 title(['Mohe FPI Empirical Model - Zonal Wind @ Doy = ' num2str(Doy(plot_index))])
 xlabel('Universal Time (h)')
