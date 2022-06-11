@@ -24,3 +24,5 @@ UT, Doy, Meridional and Zonal Wind, wind deviation, Sunrise and Sunset time, Sta
 
 ## Contact
 If you have any questions, please send email to llwwb@mail.iggcas.ac.cn
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=aZkVKNB7wE5aEH3jj6TYWMxNFlnjc1oBiyOal4UpITs"></script>
