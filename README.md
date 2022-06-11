@@ -14,6 +14,13 @@ Doy_List, UT_List
 UT, Doy, Meridional and Zonal Wind, wind deviation, Sunrise and Sunset time, Station information  
 
 ## File List
+1. MoheFPIWindNURBSModel.m - Main function
+2. Run_Example.m           - An example for user
+3. Fun_bspl4.m             - Support function
+4. Fun_zenith_sunrise.m    - Support function
+5. MeridionalModel.mat     - Model parameters
+6. ZonalModel.mat          - Model parameters
+7. dwind.mat               - Model parameters
 
 ## Contact
 If you have any questions, please send email to llwwb@mail.iggcas.ac.cn
